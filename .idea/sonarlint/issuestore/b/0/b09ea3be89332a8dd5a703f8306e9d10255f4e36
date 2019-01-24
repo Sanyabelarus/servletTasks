@@ -1,0 +1,21 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8╬ми╫З-
+bsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(йщ╖°∙    8╬ми╫З-
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ё═├╧■    8╬ми╫З-
+`squid:S2147"DCombine this catch with the one at line 22, which has the same body.(янг─8╬ми╫З-
+`squid:S2147"DCombine this catch with the one at line 56, which has the same body.(янг─8╬ми╫З-
+Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8╬ми╫З-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(а▄єБ8╬ми╫З-
+Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8╬ми╫З-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(ўдЛ·8╬ми╫З-
+Ksquid:S2093"*Change this "try" to a try-with-resources.(б╗в№∙    8╬ми╫З-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(ВУ╢ю8╬ми╫З-
+Ksquid:S1989"*Add a "try/catch" block for "drawMessage".(шгЁ┐·    8╬ми╫З-
+[squid:S1161":Add the "@Override" annotation above this method signature(■│ВФ√    8╬ми╫З-
+Esquid:S1989"$Add a "try/catch" block for "doGet".(о╙С√     8╬ми╫З-
+Ksquid:S2093"*Change this "try" to a try-with-resources.(б╗в№∙    8╬ми╫З-
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.( ЎПп·    8╬ми╫З-
+Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8╬ми╫З-
+Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8╬ми╫З-
+Esquid:S1989"$Add a "try/catch" block for "doGet".(о╙С√     8╬ми╫З-
+Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8╬ми╫З-

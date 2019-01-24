@@ -1,0 +1,110 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <servlet-name>Servlet</servlet-name>
+    <servlet-class>com.task8.Servlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Servlet</servlet-name>
+    <url-pattern>/hello</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Count</servlet-name>
+    <servlet-class>com.task9.Count</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Count</servlet-name>
+    <url-pattern>/count</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Form</servlet-name>
+    <servlet-class>com.task10.Form</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Form</servlet-name>
+    <url-pattern>/form</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Myserv</servlet-name>
+    <servlet-class>com.task10.MyServ</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Myserv</servlet-name>
+    <url-pattern>/Myserv</url-pattern>
+  </servlet-mapping>
+    <servlet>
+        <servlet-name>Servletn</servlet-name>
+        <servlet-class>com.formServ.MyServ</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Servletn</servlet-name>
+        <url-pattern>/newServ</url-pattern>
+    </servlet-mapping>
+  <servlet>
+    <servlet-name>Exeption</servlet-name>
+    <servlet-class>com.task10.Exception</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Exeption</servlet-name>
+    <url-pattern>/Exception</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>Task11</servlet-name>
+  <servlet-class>com.task11.Task11</servlet-class>
+</servlet>
+
+  <servlet-mapping>
+    <servlet-name>Task11</servlet-name>
+    <url-pattern>/task11</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Task12</servlet-name>
+    <servlet-class>com.task12.Task12</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Task12</servlet-name>
+    <url-pattern>/task12</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Task13</servlet-name>
+    <servlet-class>com.task13.Task13</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Task13</servlet-name>
+    <url-pattern>/task13</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Task14</servlet-name>
+    <servlet-class>com.task14.Task14</servlet-class>
+    <init-param>
+      <param-name>URL</param-name>
+      <param-value>jdbc:mysql://localhost:3306/ListExpenses</param-value>
+    </init-param>
+    <init-param>
+      <param-name>name</param-name>
+      <param-value>admin</param-value>
+    </init-param>
+    <init-param>
+      <param-name>password</param-name>
+      <param-value>admin</param-value>
+    </init-param>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Task14</servlet-name>
+    <url-pattern>/task14</url-pattern>
+  </servlet-mapping>
+</web-app>

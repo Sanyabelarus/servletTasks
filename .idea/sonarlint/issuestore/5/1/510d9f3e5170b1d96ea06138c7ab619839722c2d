@@ -1,0 +1,20 @@
+
+lsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(ø‘¥ùÿÿÿÿ
+lsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(ˆºÌÙùÿÿÿÿ
+:squid:S2068" Remove this hard-coded password.(²ùÏ×üÿÿÿÿ
+asquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(§ôş—ùÿÿÿÿ
+asquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+\squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÙµÙ
+asquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¯„ä…ùÿÿÿÿ
+\squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÙµÙ
+asquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¯„ä…ùÿÿÿÿ
+asquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(§ôş—ùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑıİĞ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒù¶˜ûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ö¿ˆˆ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒù¶˜ûÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•²úóûÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰©ùìùÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(”Œ«íüÿÿÿÿ
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¦â¤
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(²ùÏ×üÿÿÿÿ

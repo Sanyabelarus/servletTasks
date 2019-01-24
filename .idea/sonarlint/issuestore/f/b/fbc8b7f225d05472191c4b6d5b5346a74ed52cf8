@@ -1,0 +1,11 @@
+
+fsquid:UselessImportCheck"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8ÅÈºÕ‡-
+bsquid:UselessImportCheck"4Remove this unused import 'java.io.DataInputStream'.(”•úºÿÿÿÿÿ8ÅÈºÕ‡-
+esquid:UselessImportCheck"<Remove this unused import 'javax.servlet.RequestDispatcher'.(Ëöò¼8–â Ö‡-
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿ8×çÖÖ‡-
+Esquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ8×çÖÖ‡-
+Esquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ8×çÖÖ‡-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùïˆ•8×çÖÖ‡-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(ùïˆ•8×çÖÖ‡-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(ø”þÃ8×çÖÖ‡-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(èå¾Â8×çÖÖ‡-
